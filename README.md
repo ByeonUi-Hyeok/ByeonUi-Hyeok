@@ -9,6 +9,7 @@
 <!-- 깃허브 스택 끝 -->
 
 
+<!-- 파이썬은 자유로운 언어>> 길이많다>>최적의길을찾는것이 내목적1 -->
 
 <!--
 **ByeonUi-Hyeok/ByeonUi-Hyeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
