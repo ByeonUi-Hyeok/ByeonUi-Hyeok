@@ -10,6 +10,7 @@
 
 
 <!-- 파이썬은 자유로운 언어>> 길이많다>>최적의길을찾는것이 내목적1 -->
+<!-- 저는 파이썬 개발자이며 ~ 를추구하고 ~ -->
 
 <!--
 **ByeonUi-Hyeok/ByeonUi-Hyeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
