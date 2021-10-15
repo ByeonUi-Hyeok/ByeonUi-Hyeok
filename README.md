@@ -7,7 +7,18 @@
 스택
 컨트랙트
 
+
+
 각 프로젝트에 포트폴리오 + readmd 파일 작성
+
+정보기 / adsp /sqld / 사조사 2급 / 기술사까지 ..              1h +1h + 1h +1h 
+패캠 딥 + 머                                                1h
+패캠 코테 파썬                                              1h
+포트폴리오                                                  1h
+포트폴리오 + 배포                                            1h
+++
+파이썬 웹배포
+
 -->
 <!-- 방문자수 시작 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FByeonUi-Hyeok%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
