@@ -1,6 +1,9 @@
 ### Hi there 👋
-<!-- 코드포스 스택 [![CodeForces Profile](https://cf.leed.at?id=bym4094)](https://codeforces.com/profile/bym4094)-->
-[![trophy](https://github-profile-trophy.vercel.app/?username=ByeonUi-Hyeok)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- 예전 사용 코드
+코드포스 스택 [![CodeForces Profile](https://cf.leed.at?id=bym4094)](https://codeforces.com/profile/bym4094)
+트로피 [![trophy](https://github-profile-trophy.vercel.app/?username=ByeonUi-Hyeok)](https://github.com/ryo-ma/github-profile-trophy)
+-->
+
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bym4094">
 <!--
 깃부터??11
