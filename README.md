@@ -16,11 +16,13 @@
 
 
 
-# 코딩테스트(백준)
+### 코딩테스트(백준)
+<!-- 백준 시작 -->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bym4094)](https://solved.ac/bym4094)
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bym4094">
+<!--오른쪽<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bym4094">-->
+<!-- 백준 시작 -->
 
-# 깃허브 스택
+### 깃허브 스택
 <!-- 깃허브 스택 시작 -->
 ![UiHyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByeonUi-Hyeok&show_icons=true&theme=radical)
 <!-- 깃허브 스택 끝 -->
