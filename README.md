@@ -5,7 +5,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Uihyeok's%20Github&fontAlign=77.5&fontAlignY=50&color=gradient&fontSize=45)
 <!-- 헤더 참조주소 : https://github.com/kyechan99/capsule-render -->
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Uihyeok's%20Github&fontAlign=77.5&fontAlignY=50&color=gradient&fontSize=45)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bym4094)]
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bym4094">
 <!--
