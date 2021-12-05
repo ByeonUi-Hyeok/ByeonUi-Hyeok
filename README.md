@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bym4094">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ByeonUi-Hyeok">
 <!--
 깃부터??11
 구성
