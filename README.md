@@ -5,16 +5,9 @@
 <!-- 헤더 참조주소 : https://github.com/kyechan99/capsule-render -->
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Uihyeok's%20Github&fontAlign=77.5&fontAlignY=50&color=gradient&fontSize=45)
 <!-- 방문자수 시작 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FByeonUi-Hyeok%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![counts](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FByeonUi-Hyeok%2Fhit-counter&count_bg=%23B8B8B8&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8&edge_flat=false)](https://hits.seeyoufarm.com)
 <!-- 방문자수 끝 -->
 
-
-<div align=right>
-
-[![counts](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FByeonUi-Hyeok%2Fhit-counter&count_bg=%23B8B8B8&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
 
 
 ### Hi there 👋
