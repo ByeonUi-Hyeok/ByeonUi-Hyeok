@@ -4,6 +4,9 @@
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Uihyeok's%20Github&fontAlign=77.5&fontAlignY=50&color=gradient&fontSize=45)
 <!-- 헤더 참조주소 : https://github.com/kyechan99/capsule-render -->
+<!-- 방문자수 시작 -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FByeonUi-Hyeok%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- 방문자수 끝 -->
 ### Hi there 👋
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bym4094)]
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bym4094">
@@ -43,9 +46,6 @@ pyqt --gui -- 얼굴인식 로그인
 순서..포트폴리오 완성 깃허브.. 완성하기퍼
 
 -->
-<!-- 방문자수 시작 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FByeonUi-Hyeok%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<!-- 방문자수 끝 -->
 
 <!-- 깃허브 스택 시작 -->
 ![UiHyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByeonUi-Hyeok&show_icons=true&theme=radical)
