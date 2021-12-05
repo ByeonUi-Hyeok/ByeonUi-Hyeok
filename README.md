@@ -11,7 +11,9 @@
 
 </div>
 <!-- 방문자수 끝 -->
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjddlf101)](https://solved.ac/tjddlf101)
 
+출처: https://heo-seongil.tistory.com/131 [Since. 24살]
 ### Hi there 👋
 안녕하세요? 데이터 분석 ~~ 파이썬은 자유로운?? 언어 ~~ 길이 `~~ 저의 목표는 ~~
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bym4094)]
