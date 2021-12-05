@@ -2,9 +2,8 @@
 코드포스 스택 [![CodeForces Profile](https://cf.leed.at?id=bym4094)](https://codeforces.com/profile/bym4094)
 트로피 [![trophy](https://github-profile-trophy.vercel.app/?username=ByeonUi-Hyeok)](https://github.com/ryo-ma/github-profile-trophy)
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hello%20everyone&fontSize=90)
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Good%20to%20use%20with%20other%20readme&fontSize=40&animation=twinkling)
-
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Uihyeok's%20Github&fontAlign=77.5&fontAlignY=50&color=gradient&fontSize=45)
+<!-- 헤더 참조주소 : https://github.com/kyechan99/capsule-render -->
 ### Hi there 👋
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bym4094">
