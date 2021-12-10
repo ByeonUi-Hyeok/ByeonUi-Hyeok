@@ -19,7 +19,7 @@
 ### kaggle
 ### 코드포스
 ### 프로그래머스
-
+### 교육내용
 ### 코딩테스트(백준)
 <!-- 백준 시작 -->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bym4094)](https://solved.ac/bym4094)
