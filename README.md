@@ -42,7 +42,7 @@
 패캠 코테 파썬                                              1h
 포트폴리오                                                  1h
 포트폴리오 + 배포                                            1h
-열심히하자
+
 이력서작성시작
 ++
 파이썬 웹배포
@@ -56,18 +56,3 @@
 <!-- 파이썬은 자유로운 언어>> 길이많다>>최적의길을찾는것이 내목적1 -->
 <!-- 컨트랙트 , 메일, 번호? -->
 <!-- 저는 파이썬 개발자이며 ~ 를추구하고 ~ -->
-
-<!--
-**ByeonUi-Hyeok/ByeonUi-Hyeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
