@@ -2,7 +2,7 @@
 코드포스 스택 [![CodeForces Profile](https://cf.leed.at?id=bym4094)](https://codeforces.com/profile/bym4094)
 트로피 [![trophy](https://github-profile-trophy.vercel.app/?username=ByeonUi-Hyeok)](https://github.com/ryo-ma/github-profile-trophy)
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Ui-hyeok's%20Github&fontAlign=77.5&fontAlignY=50&color=gradient&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Ui-Hyeok's%20Github&fontAlign=77.5&fontAlignY=50&color=gradient&fontSize=45)
 <!-- 헤더 참조주소 : https://github.com/kyechan99/capsule-render -->
 <!-- 방문자수 시작 -->
 <div align=right>
