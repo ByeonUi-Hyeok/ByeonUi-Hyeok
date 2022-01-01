@@ -31,7 +31,7 @@
 <!-- 백준 시작 -->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bym4094)](https://solved.ac/bym4094)
 <!--오른쪽<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bym4094">-->
-<!-- 백준 시작 -->
+<!-- 백준 끝 -->
 
 ### 깃허브 관리
 <!-- 깃허브 스택 시작 -->
